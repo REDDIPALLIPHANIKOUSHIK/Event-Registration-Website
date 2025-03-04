@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Event Registration</title>
+</head>
+<body>
+    <h1>Register for Our Event</h1>
+    <form>
+        <input type="text" placeholder="Your Name">
+        <button type="submit">Register</button>
+    </form>
+</body>
+</html>
+
